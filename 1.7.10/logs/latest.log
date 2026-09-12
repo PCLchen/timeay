@@ -1,0 +1,57 @@
+[10:28:00] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[10:28:00] [Server thread/INFO]: Loading properties
+[10:28:00] [Server thread/INFO]: Default game type: SURVIVAL
+[10:28:00] [Server thread/INFO]: Generating keypair
+[10:28:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:28:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:28:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:28:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:28:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:28:00] [Server thread/INFO]: Preparing level "world"
+[10:28:00] [Server thread/INFO]: Preparing start region for level 0
+[10:28:00] [Server thread/INFO]: Done (0.299s)! For help, type "help" or "?"
+[10:28:29] [Server thread/INFO]: [Server] 服务器有人吗
+[10:28:36] [Server thread/INFO]: [Server] say
+[10:28:51] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:28:54] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:29:34] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:29:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:29:40] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:30:07] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:30:39] [Server thread/INFO]: MuYu_chen[/127.0.0.1:53066] logged in with entity id 139 at (170.46508786320834, 64.47932277183016, 46.84722572447301)
+[10:30:39] [Server thread/INFO]: MuYu_chen joined the game
+[10:32:02] [Server thread/INFO]: <MuYu_chen> ?
+[10:32:16] [Server thread/INFO]: /time <set|add> <value>
+[10:32:27] [Server thread/INFO]: /time <set|add> <value>
+[10:32:33] [Server thread/INFO]: /time <set|add> <value>
+[10:33:14] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:17] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:18] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:18] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:19] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:19] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:20] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:20] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:21] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:21] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:27] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:28] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:29] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:29] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:30] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:30] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:31] [Server thread/INFO]: [MuYu_chen: Set the time to 13000]
+[10:33:41] [Server thread/INFO]: [MuYu_chen: Set the time to 1000]
+[10:36:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:36:39] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:36:42] [Server thread/INFO]: [Server] 服务器有人吗
+[10:36:54] [Server thread/INFO]: <MuYu_chen> ?
+[10:36:56] [Server thread/INFO]: <MuYu_chen> ?
+[10:36:57] [Server thread/INFO]: <MuYu_chen> ?
+[10:36:58] [Server thread/INFO]: <MuYu_chen> ?
+[10:36:59] [Server thread/INFO]: <MuYu_chen> ?
+[10:37:00] [Server thread/INFO]: <MuYu_chen> ?T
+[10:38:19] [Server thread/INFO]: MuYu_chen fell out of the world
+[10:38:28] [Server thread/INFO]: <MuYu_chen> WC
+[10:39:02] [Server thread/INFO]: MuYu_chen lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[10:39:02] [Server thread/INFO]: MuYu_chen left the game
